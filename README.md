@@ -1,3 +1,37 @@
+# 📱 React Native Expo - Sıfırdan Başlangıç Rehberi (Türkçe)
+
+> Bu rehber, hiç mobil uygulama yapmamış birinin bile anlayabileceği şekilde hazırlanmıştır.
+
+## 🎯 Bu Rehber Kimin İçin?
+
+- Programlamaya yeni başlayanlar
+- JavaScript bilen ama mobil uygulama yapmamış olanlar
+- React Native öğrenmek isteyenler
+
+## 📚 Modüller
+
+| # | Modül | Ne Öğreneceksin? |
+|---|-------|------------------|
+| 01 | [Başlangıç Hazırlıkları](./01-baslangic/README.md) | VS Code, Terminal, Node.js kurulumu |
+| 02 | [İlk Proje](./02-ilk-proje/README.md) | Proje oluşturma ve çalıştırma |
+| 03 | [View ve Text](./03-view-text/README.md) | Ekrana kutu ve yazı koyma |
+| 04 | [Stil Verme](./04-style/README.md) | Renk, boyut, kenarlık ekleme |
+| 05 | [Flexbox Layout](./05-flexbox/README.md) | Elemanları düzenleme ve hizalama |
+| 06 | [Input ve Button](./06-input-button/README.md) | Kullanıcıdan veri alma |
+| 07 | [Listeler](./07-listeler/README.md) | Uzun listeleri gösterme |
+| 08 | [Navigasyon](./08-navigasyon/README.md) | Sayfalar arası geçiş |
+
+## ⚠️ Önemli Not
+
+Her modülü sırasıyla oku. Bir modülü anlamadan diğerine geçme. Kodları sadece kopyalama, yazarak öğren.
+
+---
+
+**Hazırlayan:** coinsspor | 2025
+
+
+
+
 # 📱 Modül 01: Başlangıç Hazırlıkları
 
 Bu modülde bilgisayarını React Native geliştirmeye hazırlayacaksın.
